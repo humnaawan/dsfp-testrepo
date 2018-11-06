@@ -1,2 +1,2 @@
 
-This is a test repo to understand/play with git workflow. Here we have one .py python, `code.py`, which contains a test function `do_something()`. 
+This is a test repo to understand/play with git workflow and Python packaging. It contains the `test_package` package, which can be installed by cloning this repo and running `python setup.py install`.
