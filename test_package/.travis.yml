@@ -1,0 +1,8 @@
+
+language: python
+python:
+  - "3.6"
+# command to install dependencies
+#install: "pip install numpy"  #uncomment this if your code depends on numpy or similar
+# command to run tests
+script: pytest
